@@ -3,7 +3,7 @@ from selenium.webdriver.common.keys import Keys
 import time
 # This below is the promised upload and download speed that your internet provider has offered you
 PROMISED_DOWN = "Your Own Download Speed (write as integer) "
-PROMISED_UP = " Your Own Upload Speed(write as integer"
+PROMISED_UP = " Your Own Upload Speed(write as integer)"
 # Download the chromedriver
 CHROME_DRIVER_PATH = "Your Personal Chromedriver path"
 TWITTER_EMAIL = "EMAIL ADDRESS"
